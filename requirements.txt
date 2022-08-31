@@ -1,0 +1,7 @@
+markerlib
+aiohttp
+chardet
+discord.py
+lxml
+requests
+websockets

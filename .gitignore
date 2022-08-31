@@ -1,0 +1,11 @@
+__pycache__
+.git
+venv
+config.py
+discord-bot.log
+discord
+discord.py-async
+docs
+examples
+output.txt
+ExtraOutput.txt
